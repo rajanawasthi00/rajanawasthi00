@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Awasthi</h1>
 <h3 align="center">Self-Taught Frontend Developer | Learning by Building</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -46,19 +42,6 @@ I focus on **consistent practice, real-world projects, and improving fundamental
 - Adobe Photoshop  
 
 > These skills support my productivity and basic design workflow.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
