@@ -55,7 +55,14 @@ I focus on **consistent practice, real-world projects, and improving fundamental
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/USERNAME  
+<p>
+  <a href="https://github.com/rajanawasthi00E" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajan-awasthi-303435375/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
