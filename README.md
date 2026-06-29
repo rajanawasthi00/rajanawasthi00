@@ -19,7 +19,7 @@ I focus on **consistent practice, real-world projects, and improving fundamental
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
 ### 🧩 Backend & Database (Basics)
