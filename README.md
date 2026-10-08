@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Awasthi</h1>
-<h3 align="center">Full Stack Developer | Building Real-World Web Applications</h3>
+<h3 align="center">Full Stack Engineer | Building Real-World Web Applications</h3>
 
 <p align="center">
   <a href="https://portfolio-rajan-dev.vercel.app/">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack Developer** focused on building modern, responsive, and practical web applications.
+I’m a **Full Stack Engineer** focused on building modern, responsive, and practical web applications.
 
 I enjoy turning ideas into working products by combining **frontend development, backend APIs, databases, authentication, integrations, and real-world project experience**.
 
